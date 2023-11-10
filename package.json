@@ -1,7 +1,7 @@
 {
 	"name": "@creaworks/multi-semantic-release",
 	"author": "Omer Duzyol <omer@duzyol.net>",
-	"version": "3.16.3",
+	"version": "3.16.4",
 	"license": "0BSD",
 	"engines": {
 		"node": ">=10.18",
